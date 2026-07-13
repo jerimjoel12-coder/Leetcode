@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
