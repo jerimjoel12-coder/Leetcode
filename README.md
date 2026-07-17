@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Stack
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0002-add-two-numbers) |
+| [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
