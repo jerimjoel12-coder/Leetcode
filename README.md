@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0682-baseball-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Prefix Sum
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0682-baseball-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Game Theory
 |  |
