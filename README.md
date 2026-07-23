@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0136-single-number](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
