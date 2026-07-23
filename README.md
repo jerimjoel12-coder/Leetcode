@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0015-3sum) |
+| [0054-spiral-matrix](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0682-baseball-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Game Theory
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
