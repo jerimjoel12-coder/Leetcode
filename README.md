@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0682-baseball-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0724-find-pivot-index) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Prefix Sum
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
