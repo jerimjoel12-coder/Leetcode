@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,10 +148,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0260-single-number-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Depth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union-Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
