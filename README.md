@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0641-design-circular-deque](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
