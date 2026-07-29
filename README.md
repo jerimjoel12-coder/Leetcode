@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -197,9 +198,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0641-design-circular-deque](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0641-design-circular-deque](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
