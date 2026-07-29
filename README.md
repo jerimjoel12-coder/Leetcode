@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0155-min-stack) |
 | [0641-design-circular-deque](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
