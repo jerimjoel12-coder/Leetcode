@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,16 +180,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
