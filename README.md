@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2833-furthest-point-from-origin](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2833-furthest-point-from-origin](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
