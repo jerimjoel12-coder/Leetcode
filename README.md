@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
