@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
