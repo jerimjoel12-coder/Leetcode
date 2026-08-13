@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2833-furthest-point-from-origin](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
@@ -241,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2833-furthest-point-from-origin](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2833-furthest-point-from-origin) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jerimjoel12-coder/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
