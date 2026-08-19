@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0260-single-number-iii) |
+| [0396-rotate-function](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0396-rotate-function](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0396-rotate-function) |
 ## Greedy
 |  |
 | ------- |
