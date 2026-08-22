@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0137-single-number-ii) |
+| [0212-word-search-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0260-single-number-iii) |
 | [0396-rotate-function](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0396-rotate-function) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0212-word-search-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0212-word-search-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0212-word-search-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jerimjoel12-coder/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
@@ -261,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
