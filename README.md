@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0212-word-search-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0306-additive-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jerimjoel12-coder/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0212-word-search-ii) |
+| [0306-additive-number](https://github.com/jerimjoel12-coder/Leetcode/tree/master/0306-additive-number) |
 ## Trie
 |  |
 | ------- |
