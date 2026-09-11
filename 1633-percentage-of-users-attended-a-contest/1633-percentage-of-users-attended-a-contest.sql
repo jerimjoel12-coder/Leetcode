@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select reg.contest_id,round(count(reg.user_id)/(select count(*) from Users)*100,2) as percentage from Register as reg group by reg.contest_id order by percentage desc,reg.contest_id asc; 
